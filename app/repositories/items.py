@@ -1,5 +1,5 @@
-from db.items import items
-from models.item import Item, ImportItems, ImportItemFile, ImportItemFolder
+from app.db.items import items
+from app.models.item import Item, ImportItems, ImportItemFile, ImportItemFolder
 from .base import BaseRepository
 
 
